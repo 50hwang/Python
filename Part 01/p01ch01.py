@@ -14,4 +14,5 @@ print('')
 #Visual로 Python 테스트 코드 작성
 
 print('Hello, World!')
+print('Check GitHub!')
     # Run Without Debug(Ctrl + F5)
